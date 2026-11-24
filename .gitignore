@@ -1,0 +1,22 @@
+
+# Raw datasets
+data/raw/*
+
+# Processed datasets
+data/processed/*
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Operating system
+.DS_Store
+Thumbs.db
